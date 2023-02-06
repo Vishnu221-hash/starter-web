@@ -3,3 +3,10 @@ this is just. arandom file.
 
 
 ##so im filling with htis absolutely random words
+
+
+so in addition to htis now whta im going ot do is , make this few change snad add them to staging are. only staging are
+
+
+so tnow the above sentence has been staged, not cmitted, this is not even going to be staged
+
